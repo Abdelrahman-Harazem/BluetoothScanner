@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothScanner</string>
+    <string name="scan_paired_devices">Scan Paired Devices</string>
+    <string name="scan_devices">Scan Devices</string>
+</resources>
